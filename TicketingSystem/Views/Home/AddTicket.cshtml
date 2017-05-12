@@ -1,0 +1,70 @@
+﻿@model TicketingSystem.Models.AddTicketViewModel
+@{
+    ViewBag.Title = "Ticketing System";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("AddTicket", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Add ticket</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Category, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Category, Model.Categories, new { @class = "form-control", style = "display:inline" })
+            @Html.ValidationMessageFor(m => m.Category, "", new { @class = "text-danger", style = "display:inline" })
+
+         
+        </div>
+        
+        
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Title, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Title, new { @class = "form-control", style = "display:inline" })
+            @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger", style = "display:inline" })
+
+
+        </div>
+        
+        
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Priority, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Priority, Model.Priorities,  new { @class = "form-control", style = "display:inline" })   
+            @Html.ValidationMessageFor(m => m.Priority, "", new { @class = "text-danger", style = "display:inline" })
+
+        
+        </div>
+        
+       
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Screenshot, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Screenshot, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Description, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Description, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Add ticket" />
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

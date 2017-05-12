@@ -1,0 +1,29 @@
+﻿@model List<TicketingSystem.Models.TicketsRepository.TicketsList>
+@{
+    ViewBag.Title = "Ticketing System";
+}
+
+<h1>@ViewBag.Title</h1>
+
+@for (var i = 0; i < 6; i++)
+{
+    if (i==0 || i==3)
+    {
+        @Html.Raw("<div class=row>")
+    }
+
+        <div class="col-md-4">
+            <h2>@Model[i].Title</h2>
+            <p><b>Category: </b>@Model[i].Category</p>
+            <p><b>Author: </b>@Model[i].Author</p>
+            <p>@Model[i].CommentsCount comment(s)</p>
+            <p>@Html.ActionLink("More details...", "ShowTicket", "Home", new { ID = Model[i].ID }, new { @class = "btn btn-default" })</p>
+
+        </div>
+
+    if (i == 2 || i == 5)
+    {
+        @Html.Raw("</div>")
+    }
+
+}

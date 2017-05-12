@@ -1,0 +1,14 @@
+﻿@model TicketingSystem.Entities.Comments
+
+
+@{
+    ViewBag.Title = "Administration: edit comments";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel()
+    <input type="submit" value="Save" />
+    @Html.ActionLink("Abort", "Index", "Home")
+}

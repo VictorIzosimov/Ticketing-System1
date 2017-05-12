@@ -1,0 +1,105 @@
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll.config
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.pdb
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.xml
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.resources.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository.csprojResolveAssemblyReference.cache
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.dll
+D:\backup\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.pdb
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll.config
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.pdb
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.pdb
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor\Desktop\Interview Assignment\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll.config
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.pdb
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository.csprojResolveAssemblyReference.cache
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.dll
+D:\backup\1\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.pdb
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll.config
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\TicketingSystem.Repository1.pdb
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.Razor.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.dll
+C:\Users\Victor\Desktop\Interview Assignment\2\TicketingSystem — копия\TicketingSystem\TicketingSystem.Repository1\obj\Debug\TicketingSystem.Repository1.pdb

@@ -1,0 +1,74 @@
+/***********************
+  GRADIENT BUTTONS
+************************/
+.btn-primary.gradient {
+    background: -moz-linear-gradient(top,  #404040 50%, #333333  50%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#404040), color-stop(50%,#333333 )); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #404040 50%,#333333  50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #404040 50%,#333333  50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #404040 50%,#333333  50%); /* IE10+ */
+    background: linear-gradient(to bottom,  #404040 50%,#333333  50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#404040', endColorstr='#333333 ',GradientType=0 ); /* IE6-9 */
+    border-radius: 0px;
+    border-color: #404040;
+    border-width:2px;
+    color: darkgray;
+}
+.btn-primary.gradient:hover, .btn-primary.gradient:focus, .btn-primary.gradient:active, .btn-primary.gradient.active, .open > .dropdown-toggle.btn-primary {
+    background: -moz-linear-gradient(top,  #404040 50%, #333333  50%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#404040), color-stop(50%,#333333 )); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #404040 50%,#333333  50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #404040 50%,#333333  50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #404040 50%,#333333  50%); /* IE10+ */
+    background: linear-gradient(to bottom,  #404040 50%,#333333  50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#404040', endColorstr='#333333 ',GradientType=0 ); /* IE6-9 */
+    border-radius: 0px;
+    border-color: #404040;
+    border-width:2px;
+    color: white;
+}
+.btn-primary.gradient:active, .btn-primary.gradient.active {
+    background: -moz-linear-gradient(top,  #404040 50%, #333333  50%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#404040), color-stop(50%,#333333 )); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #404040 50%,#333333  50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #404040 50%,#333333  50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #404040 50%,#333333  50%); /* IE10+ */
+    background: linear-gradient(to bottom,  #404040 50%,#333333  50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#404040', endColorstr='#333333 ',GradientType=0 ); /* IE6-9 */
+    border-radius: 0px;
+    border-color: #404040;
+    border-width:2px;
+    color: white;
+}
+
+.green_grad {
+	background: -webkit-linear-gradient(#FFF, #19cd37); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#FFF, #19cd37); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#FFF, #19cd37); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#FFF, #19cd37); /* Standard syntax */
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+
+
+.form-control.gradient.dropdown-toggle {
+	background: -webkit-linear-gradient(#75bd25, #343a44); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#75bd25, #343a44); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#75bd25, #343a44); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#75bd25, #343a44); /* Standard syntax */
+}
+
+.btn-primary.gradient2 {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#aebcbf+0,424746+0,575e5e+50,424746+100,6e7774+100 */
+    background: rgb(174,188,191); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(66,71,70,1) 0%, rgba(87,94,94,1) 50%, rgba(66,71,70,1) 100%, rgba(110,119,116,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(66,71,70,1) 0%,rgba(87,94,94,1) 50%,rgba(66,71,70,1) 100%,rgba(110,119,116,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(66,71,70,1) 0%,rgba(87,94,94,1) 50%,rgba(66,71,70,1) 100%,rgba(110,119,116,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#6e7774',GradientType=0 ); /* IE6-9 */
+
+    color: white;
+}
+
+
+
+ 
