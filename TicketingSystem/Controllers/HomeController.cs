@@ -12,10 +12,12 @@ namespace TicketingSystem.Controllers
         {
             unitOfWork = new UnitOfWork();
         }
-
+        
+        [OutputCache(Duration=3600, VaryByParam="model")]
         public ActionResult Index()
-        {        
-            return View(unitOfWork.Tickets.GetFirst6());
+        {   
+            var model = unitOfWork.Tickets.GetFirst6();
+            return View(model);
         }
 
         [HttpGet]
