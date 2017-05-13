@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity;
 using System.Web.Mvc;
 using TicketingSystem.Entities;
 using TicketingSystem.Models;
@@ -21,7 +21,7 @@ namespace TicketingSystem.Controllers
         }
 
         [HttpGet]
-        public ActionResult Search()
+        public ActionResult Filter()
         {
             var model = new AddTicketViewModel
             {
@@ -31,9 +31,9 @@ namespace TicketingSystem.Controllers
         }
 
         [HttpPost]
-        public ActionResult Search(string ddlUsers)
+        public ActionResult Filter(string categoryFilter)
         {
-            return PartialView("SearchResultsPartial", unitOfWork.Tickets.GetTicketsList(ddlUsers));
+            return PartialView("SearchResultsPartial", unitOfWork.Tickets.GetTicketsList(categoryFilter);
         }
 
         public ActionResult ViewAllTickets()
@@ -52,13 +52,14 @@ namespace TicketingSystem.Controllers
         {
             return View(model);
         }
+        
         public ActionResult ShowTicket(int ID)
         {
             return View(unitOfWork.Tickets.GetTicketListByID(ID));
         }
 
  
-
+        [Authorize(Roles = "user")]
         public ActionResult AddComment(string ID, string comment)
         {
             int ID1 = int.Parse(ID);
@@ -72,7 +73,6 @@ namespace TicketingSystem.Controllers
 
 
         [Authorize(Roles = "user")]
-
         public ActionResult AddTicket()
         {
             var model = new AddTicketViewModel
@@ -81,6 +81,7 @@ namespace TicketingSystem.Controllers
         };
             return View(model);
         }
+        
         [Authorize(Roles = "user")]
         [ValidateAntiForgeryToken]
         [HttpPost]
