@@ -38,6 +38,7 @@ namespace TicketingSystem.Controllers
         {
             if (ModelState.IsValid)
             {
+                unitOfWork.Categories.Update(category);
                 unitOfWork.Save();
                 return RedirectToAction("Index","Home");
             }
@@ -69,6 +70,7 @@ namespace TicketingSystem.Controllers
         {
             if (ModelState.IsValid)
             {
+                unitOfWork.Comments.Update(category);
                 unitOfWork.Save();
                 return RedirectToAction("Index", "Home");
             }
