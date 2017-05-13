@@ -34,7 +34,7 @@
 
 @if (User.Identity.IsAuthenticated)
 {
-    if (User.IsInRole("admin"))
+    if (User.IsInRole("user"))
     {
 <div id="search-form">
     @using (Ajax.BeginForm("AddComment", "Home", FormMethod.Post,
