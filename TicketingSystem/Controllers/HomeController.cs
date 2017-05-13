@@ -20,15 +20,7 @@ namespace TicketingSystem.Controllers
             return View(model);
         }
 
-        [HttpGet]
-        public ActionResult Filter()
-        {
-            var model = new AddTicketViewModel
-            {
-                Categories = unitOfWork.Categories.GetListCategories()
-            };
-            return PartialView("SearchFilterPartial", model);
-        }
+        
 
         [HttpPost]
         public ActionResult Filter(string categoryFilter)
