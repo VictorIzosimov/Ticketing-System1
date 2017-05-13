@@ -55,12 +55,12 @@ namespace TicketingSystem.Controllers
         public async Task<ActionResult> Index(ManageMessageId? message)
         {
             ViewBag.StatusMessage =
-                message == ManageMessageId.ChangePasswordSuccess ? "Ваш пароль изменен."
-                : message == ManageMessageId.SetPasswordSuccess ? "Пароль задан."
-                : message == ManageMessageId.SetTwoFactorSuccess ? "Настроен поставщик двухфакторной проверки подлинности."
-                : message == ManageMessageId.Error ? "Произошла ошибка."
-                : message == ManageMessageId.AddPhoneSuccess ? "Ваш номер телефона добавлен."
-                : message == ManageMessageId.RemovePhoneSuccess ? "Ваш номер телефона удален."
+                message == ManageMessageId.ChangePasswordSuccess ? "Your password is changed."
+                : message == ManageMessageId.SetPasswordSuccess ? "Password is set."
+                : message == ManageMessageId.SetTwoFactorSuccess ? "Two-factor authentication provider is configured."
+                : message == ManageMessageId.Error ? "An error occured."
+                : message == ManageMessageId.AddPhoneSuccess ? "Your phone number is added."
+                : message == ManageMessageId.RemovePhoneSuccess ? "Your phone number is deleted."
                 : "";
 
             var userId = User.Identity.GetUserId();
@@ -123,7 +123,7 @@ namespace TicketingSystem.Controllers
                 var message = new IdentityMessage
                 {
                     Destination = model.Number,
-                    Body = "Ваш код безопасности: " + code
+                    Body = "Your security code: " + code
                 };
                 await UserManager.SmsService.SendAsync(message);
             }
@@ -165,7 +165,6 @@ namespace TicketingSystem.Controllers
         public async Task<ActionResult> VerifyPhoneNumber(string phoneNumber)
         {
             var code = await UserManager.GenerateChangePhoneNumberTokenAsync(User.Identity.GetUserId(), phoneNumber);
-            // Отправка SMS через поставщик SMS для проверки номера телефона
             return phoneNumber == null ? View("Error") : View(new VerifyPhoneNumberViewModel { PhoneNumber = phoneNumber });
         }
 
@@ -189,8 +188,8 @@ namespace TicketingSystem.Controllers
                 }
                 return RedirectToAction("Index", new { Message = ManageMessageId.AddPhoneSuccess });
             }
-            // Это сообщение означает наличие ошибки; повторное отображение формы
-            ModelState.AddModelError("", "Не удалось проверить телефон");
+            
+            ModelState.AddModelError("", "Failed to check the phone number");
             return View(model);
         }
 
@@ -272,7 +271,7 @@ namespace TicketingSystem.Controllers
                 AddErrors(result);
             }
 
-            // Это сообщение означает наличие ошибки; повторное отображение формы
+           
             return View(model);
         }
 
@@ -281,8 +280,8 @@ namespace TicketingSystem.Controllers
         public async Task<ActionResult> ManageLogins(ManageMessageId? message)
         {
             ViewBag.StatusMessage =
-                message == ManageMessageId.RemoveLoginSuccess ? "Внешнее имя входа удалено."
-                : message == ManageMessageId.Error ? "Произошла ошибка."
+                message == ManageMessageId.RemoveLoginSuccess ? "External username is deleted."
+                : message == ManageMessageId.Error ? "An error occured."
                 : "";
             var user = await UserManager.FindByIdAsync(User.Identity.GetUserId());
             if (user == null)
@@ -305,7 +304,7 @@ namespace TicketingSystem.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult LinkLogin(string provider)
         {
-            // Запрос перенаправления к внешнему поставщику входа для связывания имени входа текущего пользователя
+            
             return new AccountController.ChallengeResult(provider, Url.Action("LinkLoginCallback", "Manage"), User.Identity.GetUserId());
         }
 
@@ -334,7 +333,7 @@ namespace TicketingSystem.Controllers
         }
 
 #region Вспомогательные приложения
-        // Используется для защиты от XSRF-атак при добавлении внешних имен входа
+        
         private const string XsrfKey = "XsrfId";
 
         private IAuthenticationManager AuthenticationManager
