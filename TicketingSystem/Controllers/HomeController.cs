@@ -13,7 +13,7 @@ namespace TicketingSystem.Controllers
             unitOfWork = new UnitOfWork();
         }
         
-        [OutputCache(Duration=3600, VaryByParam="model")]
+        [OutputCache(Duration=3600)]
         public ActionResult Index()
         {   
             var model = unitOfWork.Tickets.GetFirst6();
